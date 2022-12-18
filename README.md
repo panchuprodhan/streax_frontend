@@ -9,3 +9,4 @@ Head over to another terminal and `cd truffle` into the truffle folder and run `
 Move over to your metamask and import one and couple other accounts to this for transfering token among the accounts.
 
 Head over to your browser and refresh the page. Hope this works fine for you! Have a great time!
+Refer to [nibir_hira@rediffmail.com] for any updates or queries.
